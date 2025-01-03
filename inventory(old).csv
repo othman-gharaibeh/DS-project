@@ -1,0 +1,48 @@
+book_id,title,author,genre,price,stock
+101,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,12.99,25
+102,Pride and Prejudice,Jane Austen,Classic,9.99,30
+103,To Kill a Mockingbird,Harper Lee,Classic,11.5,20
+104,1984,George Orwell,Dystopian,10.99,15
+105,The Great Gatsby,F. Scott Fitzgerald,Classic,10.5,22
+106,One Hundred Years of Solitude,Gabriel García Márquez,Magical Realism,14.99,18
+107,Moby-Dick,Herman Melville,Adventure,13.5,12
+108,Hamlet,William Shakespeare,Tragedy,8.99,28
+109,The Lord of the Rings,J.R.R. Tolkien,Fantasy,19.99,10
+109,The Lord of the Rings,J.R.R. Tolkien,Fantasy,19.99,10
+110,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,17.99,35
+111,The Da Vinci Code,Dan Brown,Thriller,15.5,20
+112,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,16.99,15
+113,Gone Girl,Gillian Flynn,Thriller,14.5,25
+114,The Hunger Games,Suzanne Collins,Dystopian,12.5,30
+115,The Book Thief,Markus Zusak,Historical Fiction,13.99,18
+116,The Perks of Being a Wallflower,Stephen Chbosky,Young Adult,11.99,22
+117,The Fault in Our Stars,John Green,Young Adult,10.99,28
+118,Looking for Alaska,John Green,Young Adult,9.99,15
+119,Paper Towns,John Green,Young Adult,11.5,20
+120,Eleanor & Park,Rainbow Rowell,Young Adult,12.99,33
+121,The Martian,Andy Weir,Science Fiction,15.99,28
+122,The Color Purple,Alice Walker,Fiction,12.5,22
+123,The Kite Runner,Khaled Hosseini,Historical Fiction,14.99,30
+124,Life of Pi,Yann Martel,Adventure,13.5,18
+124,Life of Pi,Yann Martel,Adventure,13.5,18
+125,The Road,Cormac McCarthy,Dystopian,11.99,25
+126,The Help,Kathryn Stockett,Historical Fiction,16.5,20
+127,Where the Crawdads Sing,Delia Owens,Mystery,17.99,35
+128,Little Fires Everywhere,Celeste Ng,Fiction,15.5,22
+129,Everything Everything, Nicola Yoon,Young Adult,10.99,28
+130,The Hate U Give,Angie Thomas,Young Adult,14.5,30
+131,Simon vs. the Homo Sapiens Agenda,Becky Albertalli,Young Adult,12.99,15
+132,Red  White & Royal Blue,Casey McQuiston,Romance,16.99,20
+133,Call Me by Your Name,André Aciman,Romance,13.99,18
+134,Normal People,Sally Rooney,Romance,11.5,25
+135,Conversations with Friends,Sally Rooney,Romance,14.99,30
+136,Stay with Me,Ayobami Adebayo,Fiction,15.99,22
+137,My Sister:  the Serial Killer,Oyinkan Braithwaite,Thriller,12.5,28
+108,Hamlet,William Shakespeare,Tragedy,8.99,28
+113,Gone Girl,Gillian Flynn,Thriller,14.5,25
+101,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,12.99,25
+102,Pride and Prejudice,Jane Austen,Classic,9.99,30
+118,Looking for Alaska,John Green,Young Adult,9.99,15
+120,Eleanor & Park,Rainbow Rowell,Young Adult,12.99,33
+136,Stay with Me,Ayobami Adebayo,Fiction,15.99,22
+115,The Book Thief,Markus Zusak,Historical Fiction,13.99,18
