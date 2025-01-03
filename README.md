@@ -1,7 +1,7 @@
 # DS-project
 ## Team members
--Othman Gharibeh
--Asem Abusini
+*- Othman Gharibeh
+*- Asem Abusini
 ## Description
 
 This Python application provides basic functionality for managing a bookshop's inventory and sales, it allows users to add books, update stock, process sales, and view sales data. Data is stored in CSV files 
