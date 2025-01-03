@@ -1,4 +1,7 @@
 # DS-project
+## Team members
+-Othman Gharibeh
+-Asem Abusini
 ## Description
 
 This Python application provides basic functionality for managing a bookshop's inventory and sales, it allows users to add books, update stock, process sales, and view sales data. Data is stored in CSV files 
@@ -13,7 +16,7 @@ This Python application provides basic functionality for managing a bookshop's i
     -   Record sales transactions
     -   View sales data (including total sales per book and genre)
 - **Data :
-    -   Inventory and sales data are saved to CSV files (`inventory.csv` and `sales.csv`)
+    -   Inventory and sales data are saved to CSV files (inventory.csv and sales.csv)
     -   Data is loaded and cleaned from CSV files the moment the file is ran
       
 - **Data Visualization: Basic sales data visualization using bar charts and pie charts
